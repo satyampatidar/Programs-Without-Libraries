@@ -24,7 +24,7 @@ following methods which perform the action required by the functions.
 Note: You are not allowed to use any of the string library methods to perform these
 operations. 
 
-[ You need to implement your own. ]
+### You need to implement your own.
 
 ```sh
 a. len(myString)
