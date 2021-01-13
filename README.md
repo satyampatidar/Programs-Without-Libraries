@@ -7,7 +7,8 @@ You need to write a function whether the list contains, numbers in a sequence or
 It should return True.
 
 The sequence could be either odd or even numbers as shown below.
-_Note: only one level of depth is expected to be handled._
+
+Note: only one level of depth is expected to be handled.
 Sample inputs which are correctly filled are given below:
 
 ```sh
@@ -18,10 +19,11 @@ InPut4: [[0], [2, 4], [6, 8, 10], [12, 14, 16, 18]]
 ```
 ## Strings without library
 
- Creted Python class myStringCls that accepts strings as parameters. Implemented the
+> Created Python class myStringCls that accepts strings as parameters. Implemented the
 following methods which perform the action required by the functions.
 Note: You are not allowed to use any of the string library methods to perform these
 operations. 
+
 > You need to implement your own.
 
 ```sh
