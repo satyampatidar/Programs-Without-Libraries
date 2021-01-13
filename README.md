@@ -32,3 +32,16 @@ b. addStr(str1, str2)
 c. cmpStr(str1, str2) # returns True or False
 d. isItNullStr(str)
 ```
+
+## Dictionaries
+
+> A nested dictionary class named as nestedDict with two nested levels, to the existing
+dictionary given below. Provide access methods to add and delete a particular element in the
+dictionary.
+
+Note: your deleteElem(value) method need to search for the element in the dictionary and
+delete it if found in the dictionary.
+
+```sh
+qDict = {'a':{'A'}, 'b':{'bb': 'BB'}, 'c': {'C'}, ‘d’{‘dd’: ‘’}}
+```
